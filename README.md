@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samuli
-- 👀 I’m interested in Computer science, coding, software engineering and generally everything with computers.
+- 👀 I’m interested in Computer science, coding, software engineering and generally everything to do with computers.
 - 🌱 I’m currently learning computer science in University of Jyväskylä.
 
 <!---
